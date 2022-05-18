@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+}
+body{
+    background-color: #b4adad;
+}
+
+hr{
+    margin: 0;
+}
+ 
+
+
+.texto-aprendecodigo{
+    display: none;
+}
+
+@media (min-width: 840px) {
+    .texto-aprendecodigo{
+        display: inline-block;
+    }
+}
